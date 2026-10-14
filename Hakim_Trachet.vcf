@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Trachet;Hakim;;;
+FN:Hakim Trachet
+ORG:École de technologie supérieure (ÉTS)
+TITLE:Étudiant-chercheur à la maîtrise (génie de la production automati
+ sée)
+EMAIL;TYPE=INTERNET,WORK:hakim.trachet@etsmtl.ca
+ADR;TYPE=WORK:;;;Montréal;QC;;Canada
+item1.URL:https://www.linkedin.com/in/hakim-trachet-3951032b5
+item1.X-ABLabel:LinkedIn
+item2.URL:https://hakim-trachet.github.io/
+item2.X-ABLabel:CV
+REV:2026-10-14T00:00:00Z
+END:VCARD
